@@ -102,10 +102,6 @@ Manage a DevOps project using Git best practices, including proper branching, co
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b8c91e0b-e55e-4604-a04e-f6119c60ed4f" />
 
-# Branch Structure
-
-<img width="942" height="521" alt="image" src="https://github.com/user-attachments/assets/10ac11b3-8f19-4093-bbf5-bb3b224dad47" />
-
 # working in Terminal
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97d9eb79-0ccd-4766-9619-75b8e6e25f42" />
